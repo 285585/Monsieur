@@ -33,7 +33,7 @@
     }
 
     .about .about-text {
-/*         padding: 2rem; */
+        padding: 0;
     }
 
     .about .about-image img {
@@ -109,7 +109,7 @@
 
     .about .about-text {
         width: 90%;
-        padding: 1rem;
+        padding: 0;
     }
 
     .about .about-image img {
